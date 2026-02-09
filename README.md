@@ -59,3 +59,12 @@ When you run the code, it will:
    * A bar chart of the TOPSIS scores.
 
    * A scatter plot showing how well the best model's predictions match the real data.
+<img width="1256" height="944" alt="image" src="https://github.com/user-attachments/assets/0f2a4bcc-96f7-43d5-8710-828c31cb31e6" />
+
+
+<img width="1132" height="946" alt="image" src="https://github.com/user-attachments/assets/7ec62637-ac42-4185-9c35-1197bcadc97a" />
+
+<img width="1048" height="782" alt="image" src="https://github.com/user-attachments/assets/d4bbc9f9-aa03-4f94-bf1d-ca2da7beb396" />
+
+
+
