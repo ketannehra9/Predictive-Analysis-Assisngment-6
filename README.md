@@ -1,6 +1,6 @@
 # Predictive-Analysis-Assisngment-6
 
-# Queue Simulation and Model Ranking Project
+# Data Generation using Modelling and Simulation
 This project simulates a queuing system (like a line at a store) to generate data, uses machine learning models to predict waiting times, and then ranks those models to find the best one.
 
 ## Overview
